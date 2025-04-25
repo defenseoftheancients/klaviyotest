@@ -1,28 +1,47 @@
 [
     {
-        "id": "3674711034",
-        "external_id": "54707",
-        "title": "CConfigurable product short-EGLO-Black",
+        "id": "54715",
+        "external_id": "54715",
+        "title": "Configurable product short",
         "link": "https://v562ns.bssdev.cloud/configurable-product-short.html",
         "description":  "These chunky sandals are perfect for those who embrace a blend of comfort and style. Featuring a robust platform sole, these sandals offer both height and support, making them ideal for all-day wear. The sleek leather and the chunky sole create a contemporary aesthetic, suitable for both casual outings and more adventurous fashion endeavors.",
-        "price": 99,
-        "sku": "CConfigurable product short-EGLO-Black",
-        "image_link": "https://v562ns.bssdev.cloud/pub/media/catalog/product/4/_/4_2.jpg",
+        "price": 1,
+        "sku": "Configurable product short",
+        "image_link": "https://v562ns.bssdev.cloud/pub/media/catalog/product/1/_/1_2_2.jpg",
         "categories": ["Men", "Women"],
-        "inventory_quantity": 25,
-        "inventory_policy": 1
-    },
-    {
-        "id": "3674711043",
-        "external_id": "54708",
-        "title": "Configurable product short-EGLO-Green",
-        "link": "https://v562ns.bssdev.cloud/configurable-product-short.html",
-        "description":  "These chunky sandals are perfect for those who embrace a blend of comfort and style. Featuring a robust platform sole, these sandals offer both height and support, making them ideal for all-day wear. The sleek leather and the chunky sole create a contemporary aesthetic, suitable for both casual outings and more adventurous fashion endeavors.",
-        "price": 98,
-        "sku": "Configurable product short-EGLO-Green",
-        "image_link": "https://v562ns.bssdev.cloud/pub/media/catalog/product/8/_/8.jpg",
-        "categories": ["Men", "Women"],
-        "inventory_quantity": 30,
-        "inventory_policy": 1
+        "inventory_quantity": 55,
+        "inventory_policy": 1,
+        "available": true,  
+        "variants": [
+            {
+                "id": "54707",
+                "external_id": "54707",
+                "title": "CConfigurable product short-EGLO-Black",
+                "link": "https://v562ns.bssdev.cloud/configurable-product-short.html",
+                "description":  "These chunky sandals are perfect for those who embrace a blend of comfort and style. Featuring a robust platform sole, these sandals offer both height and support, making them ideal for all-day wear. The sleek leather and the chunky sole create a contemporary aesthetic, suitable for both casual outings and more adventurous fashion endeavors.",
+                "price": 99,
+                "sku": "CConfigurable product short-EGLO-Black",
+                "image_link": "https://v562ns.bssdev.cloud/pub/media/catalog/product/4/_/4_2.jpg",
+                "categories": ["Men", "Women"],
+                "inventory_quantity": 25,
+                "inventory_policy": 1,
+                "available": true
+            },
+            {
+                "id": "54708",
+                "external_id": "54708",
+                "title": "Configurable product short-EGLO-Green",
+                "link": "https://v562ns.bssdev.cloud/configurable-product-short.html",
+                "description":  "These chunky sandals are perfect for those who embrace a blend of comfort and style. Featuring a robust platform sole, these sandals offer both height and support, making them ideal for all-day wear. The sleek leather and the chunky sole create a contemporary aesthetic, suitable for both casual outings and more adventurous fashion endeavors.",
+                "price": 98,
+                "sku": "Configurable product short-EGLO-Green",
+                "image_link": "https://v562ns.bssdev.cloud/pub/media/catalog/product/8/_/8.jpg",
+                "categories": ["Men", "Women"],
+                "inventory_quantity": 30,
+                "inventory_policy": 1,
+                "available": true
+            }
+        ]
     }
+    
 ]
