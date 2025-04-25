@@ -6,8 +6,19 @@
         "description":  "These chunky sandals are perfect for those who embrace a blend of comfort and style. Featuring a robust platform sole, these sandals offer both height and support, making them ideal for all-day wear. The sleek leather and the chunky sole create a contemporary aesthetic, suitable for both casual outings and more adventurous fashion endeavors.",
         "price": 99,
         "image_link": "https://v562ns.bssdev.cloud/pub/media/catalog/product/4/_/4_2.jpg",
-        "categories": ["FOOTWEAR"],
+        "categories": ["Men", "Women"],
         "inventory_quantity": 25,
+        "inventory_policy": 1
+    },
+    {
+        "id": "54708",
+        "title": "Configurable product short-EGLO-Green",
+        "link": "https://v562ns.bssdev.cloud/configurable-product-short.html",
+        "description":  "These chunky sandals are perfect for those who embrace a blend of comfort and style. Featuring a robust platform sole, these sandals offer both height and support, making them ideal for all-day wear. The sleek leather and the chunky sole create a contemporary aesthetic, suitable for both casual outings and more adventurous fashion endeavors.",
+        "price": 98,
+        "image_link": "https://v562ns.bssdev.cloud/pub/media/catalog/product/4/_/4_2.jpg",
+        "categories": ["Men", "Women"],
+        "inventory_quantity": 30,
         "inventory_policy": 1
     }
 ]
